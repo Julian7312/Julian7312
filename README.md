@@ -23,6 +23,6 @@
   <a href="https://github.com/Julian7312/Resaltador-de-sintaxis.git"><b>Resaltador de sintaxis</b></a><br>
   <a href="https://github.com/JoseA725/ProyectoProdan.git"><b>Aplicación de adopción para PRODAN</b></a><br>
   <a href="https://github.com/Julian7312/Proyecto-multi-agentes.git"><b>Simulacion de agentes para ordenar un piso en una fabrica</b></a><br>
-  <a href="https://github.com/Julian7312/ParallelSyntaxAnalyzer.git"><b>Simulacion de agentes para ordenar un piso en una fabrica</b></a><br>
+  <a href="https://github.com/Julian7312/ParallelSyntaxAnalyzer.git"><b>Resaltador de sintaxis con funcionalidad paralela</b></a><br>
 </ul>
 
