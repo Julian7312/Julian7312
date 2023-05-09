@@ -19,6 +19,6 @@
 
 <h3>Relevant projects</h3>
 <ul>
-  <a href="https://github.com/Julian7312/Resaltador-de-sintaxis.git"></a>
+  <a href="https://github.com/Julian7312/Resaltador-de-sintaxis.git"><b>Resaltador de sintaxis</b></a>
 </ul>
 
