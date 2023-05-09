@@ -1,7 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Julian Lawrence Gil Soares, future software engineer, currently studying a degree in Ingeniería en Tecnologías Computacionales at the Tecnológico de Monterrey and interning at Sonne Energeticos.
+<p>Welcome to my page! </br> I'm Julian Lawrence Gil Soares, future software engineer, currently studying a degree in Ingeniería en Tecnologías Computacionales at the Tecnológico de Monterrey and interning at Sonne Energeticos. Interested in all things relevant to python.
+
 <br>
 <h3>Tecnologies I use</h3>
 <ul id="list">
