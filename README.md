@@ -19,8 +19,8 @@
 
 <h3>Relevant projects</h3>
 <ul>
-  <a href="https://github.com/Julian7312/Resaltador-de-sintaxis.git"><b>Resaltador de sintaxis</b></a>
-  <a href="https://github.com/JoseA725/ProyectoProdan.git"><b>Aplicación de adopción para PRODAN</b></a>
-  <a href="https://github.com/Julian7312/Proyecto-multi-agentes.git"><b>Simulacion de agentes para ordenar un piso en una fabrica</b></a>
+  <a href="https://github.com/Julian7312/Resaltador-de-sintaxis.git"><b>Resaltador de sintaxis</b></a><br>
+  <a href="https://github.com/JoseA725/ProyectoProdan.git"><b>Aplicación de adopción para PRODAN</b></a><br>
+  <a href="https://github.com/Julian7312/Proyecto-multi-agentes.git"><b>Simulacion de agentes para ordenar un piso en una fabrica</b></a><br>
 </ul>
 
