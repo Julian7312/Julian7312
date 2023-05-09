@@ -16,6 +16,9 @@
   <li>MySQL</li>
   <li>Golang</li>
   <li>Mesa</li>
+  <li>Kotlin</li>
+  <li>C#</li>
+  <li>RStudio</li>
 </ul>
 <br>
 
@@ -26,4 +29,3 @@
   <a href="https://github.com/Julian7312/Proyecto-multi-agentes.git"><b>Simulacion de agentes para ordenar un piso en una fabrica</b></a><br>
   <a href="https://github.com/Julian7312/ParallelSyntaxAnalyzer.git"><b>Resaltador de sintaxis con funcionalidad paralela</b></a><br>
 </ul>
-
