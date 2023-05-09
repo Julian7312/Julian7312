@@ -1,16 +1,24 @@
-### Hi there 👋
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<!--
-**Julian7312/Julian7312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p>Welcome to my page! </br> I'm Julian Lawrence Gil Soares, future software engineer, currently studying a degree in Ingeniería en Tecnologías Computacionales at the Tecnológico de Monterrey and interning at Sonne Energeticos.
+<br>
+<h3>Tecnologies I use</h3>
+<ul id="list">
+  <li>Python</li>
+  <li>C++</li>
+  <li>JavaScript</li>
+  <li>Bootstrap</li>
+  <li>Jquery</li>
+  <li>Django</li>
+  <li>Bootstrap</li>
+  <li>MySQL</li>
+  <li>Golang</li>
+</ul>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Relevant projects</h3>
+<ul>
+  <a href="https://github.com/Julian7312/Resaltador-de-sintaxis.git">
+</ul>
+
