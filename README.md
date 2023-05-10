@@ -12,7 +12,7 @@
   <li>Bootstrap</li>
   <li>Jquery</li>
   <li>Django</li>
-  <li>Bootstrap</li>
+  <li>Tailwind</li>
   <li>MySQL</li>
   <li>Golang</li>
   <li>Mesa</li>
