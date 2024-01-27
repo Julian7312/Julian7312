@@ -19,6 +19,9 @@
   <li>Kotlin</li>
   <li>C#</li>
   <li>RStudio</li>
+  <li>Dart</li>
+  <li>Flutter</li>
+  <li>Firebase</li>
 </ul>
 <br>
 
